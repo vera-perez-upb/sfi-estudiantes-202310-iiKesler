@@ -13,6 +13,4 @@ Andrés Martínez -- Daniel Ardila -- Maria Fernanda García
 
     https://github.com/iiKesler/Estrellitas_Andres.git
 
-## Observations to changes from 100 to 500
-
-After chaging the value of 100 to 500, the led started beeping much slower than what it previously was.
+## ALL THE EXERCISES ARE IN THE PUBLIC REPOSITORY
