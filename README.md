@@ -9,3 +9,7 @@
 # Link to public repository
 
 ## https://github.com/iiKesler/Estrellitas_Andres.git
+
+# Observations to changes from 100 to 500
+
+## After chaging the value of 100 to 500, the led started beeping much slower than what it previously was.
