@@ -1,18 +1,18 @@
-### ESTRELLITAS ###
+## ESTRELLITAS ##
 
 
-# Names
+## Names
 
-## Andrés Martínez -- Daniel Ardila -- Maria Fernanda García
+Andrés Martínez -- Daniel Ardila -- Maria Fernanda García
 
-# ID
+## ID's
 
-## 000396102 -- 000388882 -- 000389208
+000396102 -- 000388882 -- 000389208
 
-# Link to public repository
+## Link to public repository
 
-## https://github.com/iiKesler/Estrellitas_Andres.git
+    https://github.com/iiKesler/Estrellitas_Andres.git
 
-# Observations to changes from 100 to 500
+## Observations to changes from 100 to 500
 
-## After chaging the value of 100 to 500, the led started beeping much slower than what it previously was.
+After chaging the value of 100 to 500, the led started beeping much slower than what it previously was.
